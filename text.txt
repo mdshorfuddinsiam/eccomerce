@@ -1,0 +1,46 @@
+* folder-5: 
+  v7:
+	1. Edit Form a (password) field nai kno 
+	2. (admin_profile_edit) er (<section class="content">pore<div class="row">) ta uthalo kno
+  v8: 
+ 	1. (javascript) er part bujhi nai (image part)
+ 	[search: show file image in img tag using jquery]
+  v9:
+  	[search: How to pass data to all views in Laravel ][view composer]
+  	1. (Crud) chnage hoise
+  	2. (body.header) file a (admin data) na diye (view composer) er maddhome disi
+  v10:
+    [search: how to use toastr js in laravel]
+    [https://www.larashout.com/adding-toastr-notifications-in-laravel-application]
+    1. (toaster js) er script bujhi nah
+  v11:
+  v12:
+    [use Illuminate\Support\Facades\Hash;]
+* folder-6:
+  v1:
+  v2:
+  v3:
+  v4:
+    [add new column in existing table]
+    [search: how to add column in laravel migration]
+    [search: Laravel Add a new column to existing table in a migration]
+    [search: how to show error message in laravel blade]
+    [https://laravel.com/docs/9.x/validation]
+    1. manually column add na kore (migration diye add krsi)
+    2 [validation] customize ta bujhi nai (mane proccessing)
+  v5: 
+    1. (update password) er (route) concept niye problem ase
+    3 (error massege) show korano bujhi nai
+  v5:
+    1. (mailtarap topic) bujha lagebe
+
+* folder-6:
+  v1:
+    1. {{ Auth::user()->name }} user dashboard page a kaj kortase kivabe (confuse)
+  v2: 
+    1. (user) er jonno (IndexController) use korar bepar ta jukti jukto kina
+  v3:
+    1. abar o (view composer) use kora hoise
+    2. abar o (crud style) change kora hoise
+    3. abar o (user.profile.update) route name change kora hoise
+  v4:
